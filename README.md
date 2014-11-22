@@ -1,4 +1,4 @@
 app_face_sicoob
 ===============
 
-app_face_sicoob
+Script de integracao Facecook/PHP.
